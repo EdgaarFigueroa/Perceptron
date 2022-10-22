@@ -16,7 +16,7 @@
                             a) Implementing the perceptron with the sigmoid function and
                             calculate the predicted output
                             b)Calculate the residual error
-                            c)Calculate the SSe
+                            c)Calculate the SSE
 """
 
 import numpy as np
